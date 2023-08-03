@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Pithani Yaswika</h1>
+<h1 align="center">Hi there! I'm Yaswika</h1>
 <h3 align="center">Currently pursuing Mathematics and Computing Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswika0311&label=Profile%20views&color=0e75b6&style=flat" alt="yaswika0311" /> </p>
